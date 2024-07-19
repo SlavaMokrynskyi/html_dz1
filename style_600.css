@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(21, 58, 56);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+.Header_text{
+    color: gray;
+}
+.Basic_text{
+    color: white;
+    font-size: xx-large;
+}
+.Footer{
+    display: inline-block;
+    color: white;
+}
+.Footer p{
+    padding-left: 20px;
+    display: inline-block;
+}
+.Footer img{
+    margin-top: 30px;
+}
+.gray{
+    color: gray;
+    font-size: smaller;
+}
+.Footer_text{
+    float: right;
+}
+.first{
+    position: absolute;
+    margin-left: 150px;
+}
+.second{
+    position: absolute;
+    margin-left: 150px;
+}
